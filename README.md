@@ -1,5 +1,5 @@
 # 1-3-branch-and-merge
-Branch and merge of new repository
+# Branch and merge of new repository
 echo "# 1-3-github-branch-and-merge-cmsuarez" >> README.md
 git init
 git add README.md
